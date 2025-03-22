@@ -38,7 +38,7 @@ dj-rest-auth = {extras = ["with_social"], version = "==4.0.1"}
 drf-nested-routers = "==0.93.4"
 drf-yasg = "==1.21.7"
 googlemaps = "==4.5.3"
-gunicorn = "==22.0.0"
+gunicorn = "==23.0.0"
 jsonschema = {version = "==4.2.1", extras = ["format"]}
 kombu = "==5.2.2"
 lxml = "==5.2.2"
